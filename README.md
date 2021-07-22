@@ -1,3 +1,4 @@
+!{Hi!](https://github.com/nitgc-null/nitgc-null/blob/main/hi!.gif)
 <p align="left"> 
 	 <a href="https://github.com/nitgc-null/nitgc-null/">
 	 	<img src="https://komarev.com/ghpvc/?username=nitgc-null&color=brightgreen" alt="nitgc-null" />
