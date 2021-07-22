@@ -2,15 +2,13 @@
 	 <a href="https://github.com/nitgc-null/nitgc-null/">
 	 	<img src="https://komarev.com/ghpvc/?username=nitgc-null&color=brightgreen" alt="nitgc-null" />
 	 </a>
-	 <a href="http://twitter.com/nitgc-null">
-    <img height="20" src="https://img.shields.io/twitter/follow/nitgc-null?label=Twitter&logo=twitter&style=flat" />
+	 <a href="http://twitter.com/NITGC_null">
+    <img height="20" src="https://img.shields.io/twitter/follow/NITGC_null?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/nitgc-null">
     <img height="20" src="https://img.shields.io/github/followers/nitgc-null?label=follow&logo=github&style=flat" />
   </a>
 </p>
-### Hi there 👋
-
 
 
 <!--
