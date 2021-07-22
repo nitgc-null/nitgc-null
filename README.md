@@ -10,8 +10,9 @@
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitgc-null&theme=vue)
-
+<p align="center">
+  <a href="https://github.com/nitgc-null"><img src="https://github-readme-stats.vercel.app/api?username=nitgc-null&hide_border=true&show_icons=true&theme=vue&locale=ja" alt="nitgc-null's github stats"></a>
+</p>
 
 <!--
 **nitgc-null/nitgc-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
